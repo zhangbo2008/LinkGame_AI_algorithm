@@ -11,6 +11,8 @@ move your mouse out of the game window to make him not affect the AI.
 
 there is still some bug:
 
+附带2 demo mp4
+洗牌之后需要考虑黑色空格. 需要继续优化代码
 
 #================
 # bug 汇总:
